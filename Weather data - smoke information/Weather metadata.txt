@@ -1,0 +1,19 @@
+﻿*https://climate.weather.gc.ca/FAQ_e.html#Q5
+
+Station Name		CALGARY INTL A
+Province or Territory		ALBERTA
+Current Station Operator	NAV Canada
+Latitude		51.12
+Longitude		-114.01
+Elevation		1099.10
+Climate Identifier	3031092
+WMO Identifier		71877
+TC Identifier		YYC
+"If Local Standard Time (LST) was selected, add 1 hour to adjust for Daylight Saving Time where and when it is observed."
+
+Legend
+E	Estimated
+M	Missing
+NA	Not Available*
+[empty]	Indicates an unobserved value
+
